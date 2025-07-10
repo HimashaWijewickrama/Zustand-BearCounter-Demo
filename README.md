@@ -1,6 +1,11 @@
 # React State Managing With Zustand - Real Scenario (Shopping Cart)
 
-Overview - This is a SPA shopping cart application. It allows users to add items to the cart, remove items from the cart one by one and clean the cart by removing all the products in the cart.
+Overview - This is a SPA shopping cart application. It allows users to add items to the cart, remove items from the cart one by one and clean the cart by removing all the products at once in the cart.
+
+## Packages/Languages/Depndencies
+
+- React Latest Version (19.0.1)
+- Bootstrap Latest Version
 
 ## Available Scripts
 
