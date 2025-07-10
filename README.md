@@ -1,6 +1,6 @@
 # React State Managing With Zustand - Real Scenario (Shopping Cart)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Overview - This is a SPA shopping cart application. It allows users to add items to the cart, remove items from the cart one by one and clean the cart by removing all the products in the cart.
 
 ## Available Scripts
 
