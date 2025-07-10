@@ -1,27 +1,27 @@
-export const PRODUCTS = [
+export const Products = [
     {
-        ID: 1,
-        NAME: "Product 1",
-        DESCRIPTION: "This is the description for Product 1.",
+        id: 1,
+        name: "Product 1",
+        description: "This is the description for Product 1.",
     },
     {
-        ID: 2,
-        NAME: "Product 2",
-        DESCRIPTION: "This is the description for Product 2.",
+        id: 2,
+        name: "Product 2",
+        description: "This is the description for Product 2.",
     },
     {
-        ID: 3,
-        NAME: "Product 3",
-        DESCRIPTION: "This is the description for Product 3.",
+        id: 3,
+        name: "Product 3",
+        description: "This is the description for Product 3.",
     },
     {
-        ID: 4,
-        NAME: "Product 4",
-        DESCRIPTION: "This is the description for Product 4.",
+        id: 4,
+        name: "Product 4",
+        description: "This is the description for Product 4.",
     },
     {
-        ID: 5,
-        NAME: "Product 5",
-        DESCRIPTION: "This is the description for Product 5.",
+        id: 5,
+        name: "Product 5",
+        description: "This is the description for Product 5.",
     },
 ]
