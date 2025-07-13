@@ -1,22 +1,21 @@
-import React, { useState } from 'react';
-import { Products } from './Products';
-import Cart from './Cart';
-import ProductList from './ProductList';
 import './App.css';
+import { useStore } from './store/store';
 
 function App() {
 
-  const [cart, setCart] = useState([]);
+  const { count, inc, dec, reset } = useStore();
 
   return (
     <div className="App">
-      <h1>Shopping Cart App</h1>
-      <div className="container">
-        <ProductList products={Products} setCart={setCart} />
-        <Cart setCart={setCart} cart={cart} />
-      </div>
-
+      <h1>Bear Counter 🐻</h1>
+      <span><h1>{count}</h1></span>
+      <br></br>
+      <button onClick={inc}><h3>One Up</h3></button>
+      <button onClick={dec}><h3>One Down</h3></button>
+      <br /><br />
+      <button onClick={reset}><h3>Reset</h3></button>
     </div>
+
   );
 }
 
