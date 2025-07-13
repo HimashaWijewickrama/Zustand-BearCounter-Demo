@@ -1,11 +1,12 @@
-# React State Managing With Zustand - Real Scenario (Shopping Cart)
+# React State Managing With Zustand - Real Scenario (Bear Counter)
 
-Overview - This is a SPA shopping cart application. It allows users to add items to the cart, remove items from the cart one by one and clean the cart by removing all the products at once in the cart.
+A simple single page React application demonstrating **global state management** using **Zustand**.
 
 ## Dependencies
 
 - React Latest Version (19.0.1)
 - Bootstrap Latest Version
+- Zustand Latest Version
 
 ## Available Scripts
 
