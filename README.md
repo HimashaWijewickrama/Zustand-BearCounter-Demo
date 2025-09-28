@@ -4,7 +4,8 @@ A simple single page React application demonstrating **global state management**
 
 ## What is Zustand ?
 
-Read below article on Medium to know more about Zustand
+Read below article on Medium to know more about Zustand.
+https://medium.com/@himashawije/react-state-management-with-zustand-ffeb4f868b06
 
 ## Dependencies
 
