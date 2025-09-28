@@ -2,6 +2,10 @@
 
 A simple single page React application demonstrating **global state management** using **Zustand**.
 
+## What is Zustand ?
+
+Read below article on Medium to know more about Zustand
+
 ## Dependencies
 
 - React Latest Version (19.0.1)
